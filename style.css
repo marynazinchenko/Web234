@@ -1,0 +1,82 @@
+body{
+    background-color: #e8ffff;
+    font-family: -apple-system, BlinkMacSystemFont, 'Roboto', Oxygen, Ubuntu, Cantarell,serif;
+    
+}  
+.wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align:right; 
+    top: 20px;
+
+}
+.menu{
+    display: inline-block;
+    background-color: #2e7eb7;
+    border: #fbfbfb;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    text-align:left; 
+    font-size:15pt;
+    
+}
+.searching{
+    display:flex;
+    justify-content: right;
+    margin-right: 10px;
+    top: 20px;
+    text-align:left; 
+    font-size:15pt;
+}
+.bigword{
+    font-size:25pt;
+    text-align: center;
+}
+  
+footer{  
+    font-family: sans-serif;
+    font-size: large;              
+    padding-top: 20px;
+    padding-right: 20px;
+    position: relative;
+    height: 100px;
+}
+
+.nolinkdesign {
+    color: inherit;
+    text-decoration:none; 
+}
+a:hover{
+    text-decoration: underline;
+} 
+.mainphoto{
+    margin-right: 10px;
+    margin-left: 20px;
+    border-style: solid
+}
+.forma1{
+    display: inline-block;
+    background-color: #2e7eb7;
+}
+.info1{
+    margin-right: auto;
+    width: 65em
+}
+.contacts{
+    background-color: #2e7eb7;
+    display: inline-block;
+    padding-top: 10px;
+    padding-left: 20px;
+    font-size:15pt;
+    margin-top: -20
+}
+.form2{
+    background-color: #2e7eb7;
+    
+}
+
+ 
+
